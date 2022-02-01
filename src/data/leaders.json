@@ -1,0 +1,289 @@
+{
+    "Gen1": [
+        {
+            "leader-name": "Brock",
+            "gym-name": "Pewter Gym",
+            "badge": "",
+            "pokemons": [
+                { "name": "Geodude", "lv": 10 },
+                { "name": "Onix", "lv": 14 }
+            ]
+        },
+        {
+            "leader-name": "Misty",
+            "gym-name": "Cerulean Gym",
+            "badge": "",
+            "pokemons": [
+                { "name": "Staryu", "lv": 18 },
+                { "name": "Starmie", "lv": 21 }
+            ]
+        },
+        {
+            "leader-name": "Surge",
+            "gym-name": "Vermilion Gym",
+            "badge": "",
+            "pokemons": [
+                { "name": "Raichu", "lv": 28 }
+            ]
+        },
+        {
+            "leader-name": "Erika",
+            "gym-name": "Celadon Gym",
+            "badge": "",
+            "pokemons": [
+                { "name": "Tangela", "lv": 30 },
+                { "name": "Weepinbell", "lv": 32 },
+                { "name": "Gloom", "lv": 32 }
+            ]
+        },
+        {
+            "leader-name": "Koga",
+            "gym-name": "Fuchsia Gym",
+            "badge": "",
+            "pokemons": [
+                { "name": "Venonat", "lv": 44 },
+                { "name": "Venonat", "lv": 46 },
+                { "name": "Venonat", "lv": 48 },
+                { "name": "Venomoth", "lv": 50 }
+            ]
+        },
+        {
+            "leader-name": "Sabrina",
+            "gym-name": "Saffron Gym",
+            "badge": "",
+            "pokemons": [
+                { "name": "Abra", "lv": 50 },
+                { "name": "Kadabra", "lv": 50 },
+                { "name": "Alakazam", "lv": 50 }
+            ]
+        },
+        {
+            "leader-name": "Blaine",
+            "gym-name": "Cinnabar Gym",
+            "badge": "",
+            "pokemons": [
+                { "name": "Ninetales", "lv": 48 },
+                { "name": "Rapidash", "lv": 50 },
+                { "name": "Arcanine", "lv": 54 }
+            ]
+        },
+        {
+            "leader-name": "Giovanni",
+            "gym-name": "Viridian Gym",
+            "badge": "",
+            "pokemons": [
+                { "name": "Dugtrio", "lv": 50 },
+                { "name": "Persian", "lv": 53 },
+                { "name": "Nidoqueen", "lv": 53 },
+                { "name": "Nidoking", "lv": 55 },
+                { "name": "Rhydon", "lv": 55 }
+            ]
+        },
+        {
+            "leader-name": "Lorelei",
+            "gym-name": "Elite / 1",
+            "badge": "",
+            "pokemons": [
+                { "name": "Dewgong", "lv": 54 },
+                { "name": "Cloyster", "lv": 53 },
+                { "name": "Slowbro", "lv": 54 },
+                { "name": "Jynx", "lv": 56 },
+                { "name": "Lapras", "lv": 56 }
+            ]
+        },
+        {
+            "leader-name": "Bruno",
+            "gym-name": "Elite / 2",
+            "badge": "",
+            "pokemons": [
+                { "name": "Onix", "lv": 53 },
+                { "name": "Hitmonchan", "lv": 55 },
+                { "name": "Hitmonlee", "lv": 55 },
+                { "name": "Onix", "lv": 56 },
+                { "name": "Machamp", "lv": 58 }
+            ]
+        },
+        {
+            "leader-name": "Agatha",
+            "gym-name": "Elite / 3",
+            "badge": "",
+            "pokemons": [
+                { "name": "Gengar", "lv": 56 },
+                { "name": "Golbat", "lv": 56 },
+                { "name": "Haunter", "lv": 55 },
+                { "name": "Arbok", "lv": 58 },
+                { "name": "Gengar", "lv": 60 }
+            ]
+        },
+        {
+            "leader-name": "Lance",
+            "gym-name": "Elite / 4",
+            "badge": "",
+            "pokemons": [
+                { "name": "Gyarados", "lv": 58 },
+                { "name": "Dragonair", "lv": 56 },
+                { "name": "Dragonair", "lv": 56 },
+                { "name": "Aerodactyl", "lv": 60 },
+                { "name": "Dragonite", "lv": 62 }
+            ]
+        },
+        {
+            "leader-name": "Blue",
+            "gym-name": "Champion",
+            "badge": "",
+            "pokemons": [
+                { "name": "Sandslash", "lv": 54 },
+                { "name": "Alakazam", "lv": 53 },
+                { "name": "Exeggutor", "lv": 54 },
+                { "name": "Cloyster", "lv": 56 },
+                { "name": "Ninetales", "lv": 56 },
+                { "name": "Jolteon", "lv": 56 }
+            ]
+        }
+    ],
+    "Letsgo": [
+        {
+            "leader-name": "Brock",
+            "gym-name": "Pewter Gym",
+            "badge": "",
+            "pokemons": [
+                { "name": "Geodude", "lv": 11 },
+                { "name": "Onix", "lv": 12 }
+            ]
+        },
+        {
+            "leader-name": "Misty",
+            "gym-name": "Cerulean Gym",
+            "badge": "",
+            "pokemons": [
+                { "name": "Psyduck", "lv": 18 },
+                { "name": "Starmie", "lv": 19 }
+            ]
+        },
+        {
+            "leader-name": "Surge",
+            "gym-name": "Vermilion Gym",
+            "badge": "",
+            "pokemons": [
+                { "name": "Voltorb", "lv": 25 },
+                { "name": "Magnemite", "lv": 25 },
+                { "name": "Raichu", "lv": 26 }
+            ]
+        },
+        {
+            "leader-name": "Erika",
+            "gym-name": "Celadon Gym",
+            "badge": "",
+            "pokemons": [
+                { "name": "Tangela", "lv": 33 },
+                { "name": "Weepinbell", "lv": 33 },
+                { "name": "Vileplume", "lv": 34 }
+            ]
+        },
+        {
+            "leader-name": "Koga",
+            "gym-name": "Fuchsia Gym",
+            "badge": "",
+            "pokemons": [
+                { "name": "Weezing", "lv": 43 },
+                { "name": "Muk", "lv": 43 },
+                { "name": "Golbat", "lv": 43 },
+                { "name": "Venomoth", "lv": 44 }
+            ]
+        },
+        {
+            "leader-name": "Sabrina",
+            "gym-name": "Saffron Gym",
+            "badge": "",
+            "pokemons": [
+                { "name": "Mrmime", "lv": 43 },
+                { "name": "Slowbro", "lv": 43 },
+                { "name": "Jynx", "lv": 43 },
+                { "name": "Alakazam", "lv": 44 }
+            ]
+        },
+        {
+            "leader-name": "Blaine",
+            "gym-name": "Cinnabar Gym",
+            "badge": "",
+            "pokemons": [
+                { "name": "Magmar", "lv": 47 },
+                { "name": "Rapidash", "lv": 47 },
+                { "name": "Ninetales", "lv": 47 },
+                { "name": "Arcanine", "lv": 48 }
+            ]
+        },
+        {
+            "leader-name": "Giovanni",
+            "gym-name": "Viridian Gym",
+            "badge": "",
+            "pokemons": [
+                { "name": "Dugtrio", "lv": 49 },
+                { "name": "Nidoqueen", "lv": 49 },
+                { "name": "Nidoking", "lv": 49 },
+                { "name": "Rhydon", "lv": 50 }
+            ]
+        },
+        {
+            "leader-name": "Lorelei",
+            "gym-name": "Elite / 1",
+            "badge": "",
+            "pokemons": [
+                { "name": "Dewgong", "lv": 51 },
+                { "name": "Jynx", "lv": 51 },
+                { "name": "Cloyster", "lv": 51 },
+                { "name": "Slowbro", "lv": 51 },
+                { "name": "Lapras", "lv": 52 }
+            ]
+        },
+        {
+            "leader-name": "Bruno",
+            "gym-name": "Elite / 2",
+            "badge": "",
+            "pokemons": [
+                { "name": "Onix", "lv": 52 },
+                { "name": "Hitmonchan", "lv": 52 },
+                { "name": "Hitmonlee", "lv": 52 },
+                { "name": "Poliwrath", "lv": 52 },
+                { "name": "Machamp", "lv": 53 }
+            ]
+        },
+        {
+            "leader-name": "Agatha",
+            "gym-name": "Elite / 3",
+            "badge": "",
+            "pokemons": [
+                { "name": "Arbok", "lv": 53 },
+                { "name": "Gengar", "lv": 53 },
+                { "name": "Golbat", "lv": 53 },
+                { "name": "Haunter", "lv": 53 },
+                { "name": "Gengar", "lv": 54 }
+            ]
+        },
+        {
+            "leader-name": "Lance",
+            "gym-name": "Elite / 4",
+            "badge": "",
+            "pokemons": [
+                { "name": "Seadra", "lv": 54 },
+                { "name": "Aerodactyl", "lv": 54 },
+                { "name": "Gyarados", "lv": 54 },
+                { "name": "Charizard", "lv": 54 },
+                { "name": "Dragonite", "lv": 55 }
+            ]
+        },
+        {
+            "leader-name": "Trace",
+            "gym-name": "Champion",
+            "badge": "",
+            "pokemons": [
+                { "name": "Pidgeot", "lv": 56 },
+                { "name": "Vileplume", "lv": 56 },
+                { "name": "Marowak", "lv": 56 },
+                { "name": "Rapidash", "lv": 56 },
+                { "name": "Slowbro", "lv": 56 },
+                { "name": "Jolteon", "lv": 57 }
+            ]
+        }
+    ]
+}
