@@ -15,10 +15,10 @@
 
 <style>
 @import'~bootstrap/dist/css/bootstrap.css';
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100;300;400;500;700;900&family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
 #app {
-  font-family: 'Press Start 2P', 'Noto Sans TC', sans-serif, Avenir, Helvetica, Arial, sans-serif;
+  font-family: 'Press Start 2P', sans-serif, Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;

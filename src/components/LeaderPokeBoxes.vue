@@ -6,9 +6,9 @@
               <img alt="Gym Leader" :src="require('../assets/' + leader['leader-name'] + '.png')" class="gym-leader">
               <h2 class="gym-leader-name">{{ leader['leader-name'] }}</h2>
           </div>
-          <div class="col-11 col-md-8 border shadow pb-5 m-auto rounded-3">
+          <div class="col-11 col-md-8 border shadow pb-5 mx-auto rounded-3">
               <div class="gym-name">{{ leader['gym-name'] }}</div>
-              <div class="row h-100">
+              <div class="row">
                   <div class="col-6 col-lg-4" v-for="poke in leader['pokemons']" :key="poke">
                       <img :src="require('../assets/' + poke.name + '.png')" class="img-fluid">
                       <div class="poke-name">{{ poke.name }}</div>
@@ -18,13 +18,18 @@
           </div>
       </div>
       </template>
-  </div>  
+  </div>
 </template>
 
 <script>
 export default {
     name: 'LeaderPokeBoxes',
     props: ['leadersData'],
+    data() {
+      return {
+        dataFromProps: this.leadersData
+      }
+    }
 }
 </script>
 

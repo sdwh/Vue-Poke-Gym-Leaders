@@ -1,5 +1,9 @@
 # Vue Poke Gym Leaders Data Visualization
 
+![](https://sdwh.dev/assets/Vue-Poke-Gym-Leaders.png)
+
+[Blog Article](https://sdwh.dev/posts/2022/02/Vue-Gym-Leaders/)
+
 ## Project setup
 ```
 npm install
