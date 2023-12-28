@@ -285,5 +285,444 @@
                 { "name": "Jolteon", "lv": 57 }
             ]
         }
-    ]
+    ],
+    "Letsgo2nd": [
+        {
+            "leader-name": "Brock",
+            "gym-name": "Pewter Gym",
+            "badge": "",
+            "pokemons": [
+                {
+                    "name": "Onix",
+                    "lv": "56"
+                },
+                {
+                    "name": "Omastar",
+                    "lv": "56"
+                },
+                {
+                    "name": "Aerodactyl",
+                    "lv": "56"
+                },
+                {
+                    "name": "Kabutops",
+                    "lv": "56"
+                },
+                {
+                    "name": "Golem",
+                    "lv": "57"
+                }
+            ]
+        },
+        {
+            "leader-name": "Misty",
+            "gym-name": "Cerulean Gym",
+            "badge": "",
+            "pokemons": [
+                {
+                    "name": "Golduck",
+                    "lv": "56"
+                },
+                {
+                    "name": "Vaporeon",
+                    "lv": "56"
+                },
+                {
+                    "name": "Dewgong",
+                    "lv": "56"
+                },
+                {
+                    "name": "Starmie",
+                    "lv": "56"
+                },
+                {
+                    "name": "Gyarados",
+                    "lv": "57"
+                }
+            ]
+        },
+        {
+            "leader-name": "Surge",
+            "gym-name": "Vermilion Gym",
+            "badge": "",
+            "pokemons": [
+                {
+                    "name": "Electrode",
+                    "lv": "56"
+                },
+                {
+                    "name": "Electabuzz",
+                    "lv": "56"
+                },
+                {
+                    "name": "Magneton",
+                    "lv": "56"
+                },
+                {
+                    "name": "Jolteon",
+                    "lv": "56"
+                },
+                {
+                    "name": "Raichu",
+                    "lv": "57"
+                }
+            ]
+        },
+        {
+            "leader-name": "Erika",
+            "gym-name": "Celadon Gym",
+            "badge": "",
+            "pokemons": [
+                {
+                    "name": "Tangela",
+                    "lv": "56"
+                },
+                {
+                    "name": "Parasect",
+                    "lv": "56"
+                },
+                {
+                    "name": "Exeggutor",
+                    "lv": "56"
+                },
+                {
+                    "name": "Victreebel",
+                    "lv": "56"
+                },
+                {
+                    "name": "Vileplume",
+                    "lv": "57"
+                }
+            ]
+        },
+        {
+            "leader-name": "Koga",
+            "gym-name": "Fuchsia Gym",
+            "badge": "",
+            "pokemons": [
+                {
+                    "name": "Tentacruel",
+                    "lv": "56"
+                },
+                {
+                    "name": "Weezing",
+                    "lv": "56"
+                },
+                {
+                    "name": "Golbat",
+                    "lv": "56"
+                },
+                {
+                    "name": "Venomoth",
+                    "lv": "56"
+                },
+                {
+                    "name": "Muk",
+                    "lv": "57"
+                }
+            ]
+        },
+        {
+            "leader-name": "Sabrina",
+            "gym-name": "Saffron Gym",
+            "badge": "",
+            "pokemons": [
+                {
+                    "name": "Mrmime",
+                    "lv": "56"
+                },
+                {
+                    "name": "Slowbro",
+                    "lv": "56"
+                },
+                {
+                    "name": "Jynx",
+                    "lv": "56"
+                },
+                {
+                    "name": "Hypno",
+                    "lv": "56"
+                },
+                {
+                    "name": "Alakazam",
+                    "lv": "57"
+                }
+            ]
+        },
+        {
+            "leader-name": "Blaine",
+            "gym-name": "Cinnabar Gym",
+            "badge": "",
+            "pokemons": [
+                {
+                    "name": "Magmar",
+                    "lv": "56"
+                },
+                {
+                    "name": "Rapidash",
+                    "lv": "56"
+                },
+                {
+                    "name": "Ninetales",
+                    "lv": "56"
+                },
+                {
+                    "name": "Flareon",
+                    "lv": "56"
+                },
+                {
+                    "name": "Arcanine",
+                    "lv": "57"
+                }
+            ]
+        },
+        {
+            "leader-name": "Blue",
+            "gym-name": "Viridian Gym",
+            "badge": "",
+            "pokemons": [
+                {
+                    "name": "Tauros",
+                    "lv": "66"
+                },
+                {
+                    "name": "Exeggutor",
+                    "lv": "66"
+                },
+                {
+                    "name": "Gyarados",
+                    "lv": "66"
+                },
+                {
+                    "name": "Aerodactyl",
+                    "lv": "66"
+                },
+                {
+                    "name": "Alakazam",
+                    "lv": "66"
+                },
+                {
+                    "name": "Mega Charizard Y",
+                    "lv": "68"
+                }
+            ]
+        },
+        {
+            "leader-name": "Lorelei",
+            "gym-name": "Elite / 1",
+            "badge": "",
+            "pokemons": [
+                {
+                    "name": "Dewgong",
+                    "lv": "61"
+                },
+                {
+                    "name": "Jynx",
+                    "lv": "61"
+                },
+                {
+                    "name": "Cloyster",
+                    "lv": "61"
+                },
+                {
+                    "name": "Slowbro",
+                    "lv": "61"
+                },
+                {
+                    "name": "Lapras",
+                    "lv": "62"
+                },
+                {
+                    "name": "Sandslash Alola",
+                    "lv": "61"
+                }
+            ]
+        },
+        {
+            "leader-name": "Bruno",
+            "gym-name": "Elite / 2",
+            "badge": "",
+            "pokemons": [
+                {
+                    "name": "Onix",
+                    "lv": "62"
+                },
+                {
+                    "name": "Hitmonchan",
+                    "lv": "62"
+                },
+                {
+                    "name": "Hitmonlee",
+                    "lv": "62"
+                },
+                {
+                    "name": "Poliwrath",
+                    "lv": "62"
+                },
+                {
+                    "name": "Machamp",
+                    "lv": "63"
+                },
+                {
+                    "name": "Golem Alola",
+                    "lv": "62"
+                }
+            ]
+        },
+        {
+            "leader-name": "Agatha",
+            "gym-name": "Elite / 3",
+            "badge": "",
+            "pokemons": [
+                {
+                    "name": "Arbok",
+                    "lv": "63"
+                },
+                {
+                    "name": "Weezing",
+                    "lv": "63"
+                },
+                {
+                    "name": "Golbat",
+                    "lv": "63"
+                },
+                {
+                    "name": "Gengar",
+                    "lv": "63"
+                },
+                {
+                    "name": "Gengar",
+                    "lv": "64"
+                },
+                {
+                    "name": "Marowak Alola",
+                    "lv": "63"
+                }
+            ]
+        },
+        {
+            "leader-name": "Lance",
+            "gym-name": "Elite / 4",
+            "badge": "",
+            "pokemons": [
+                {
+                    "name": "Seadra",
+                    "lv": "64"
+                },
+                {
+                    "name": "Aerodactyl",
+                    "lv": "64"
+                },
+                {
+                    "name": "Mega Charizard X",
+                    "lv": "64"
+                },
+                {
+                    "name": "Gyarados",
+                    "lv": "64"
+                },
+                {
+                    "name": "Dragonite",
+                    "lv": "65"
+                },
+                {
+                    "name": "Exeggutor Alola",
+                    "lv": "64"
+                }
+            ]
+        },
+        {
+            "leader-name": "Trace",
+            "gym-name": "Champion",
+            "badge": "",
+            "pokemons": [
+                {
+                    "name": "Mega Pidgeot",
+                    "lv": "66"
+                },
+                {
+                    "name": "Vileplume",
+                    "lv": "66"
+                },
+                {
+                    "name": "Marowak",
+                    "lv": "66"
+                },
+                {
+                    "name": "Rapidash",
+                    "lv": "66"
+                },
+                {
+                    "name": "Slowbro",
+                    "lv": "66"
+                },
+                {
+                    "name": "Jolteon",
+                    "lv": "67"
+                }
+            ]
+        },
+        {
+            "leader-name": "Green",
+            "gym-name": "Master",
+            "badge": "",
+            "pokemons": [
+                {
+                    "name": "Clefable",
+                    "lv": "66"
+                },
+                {
+                    "name": "Kangaskhan",
+                    "lv": "66"
+                },
+                {
+                    "name": "Ninetales",
+                    "lv": "66"
+                },
+                {
+                    "name": "Victreebel",
+                    "lv": "66"
+                },
+                {
+                    "name": "Gengar",
+                    "lv": "66"
+                },
+                {
+                    "name": "Mega Blastoise",
+                    "lv": "68"
+                }
+            ]
+        },        
+        {
+            "leader-name": "Red",
+            "gym-name": "Master",
+            "badge": "",
+            "pokemons": [
+                {
+                    "name": "Pikachu",
+                    "lv": "85"
+                },
+                {
+                    "name": "Machamp",
+                    "lv": "85"
+                },
+                {
+                    "name": "Arcanine",
+                    "lv": "85"
+                },
+                {
+                    "name": "Lapras",
+                    "lv": "85"
+                },
+                {
+                    "name": "Snorlax",
+                    "lv": "85"
+                },
+                {
+                    "name": "Mega Venusaur",
+                    "lv": "85"
+                }
+            ]
+        }
+    ]    
 }

@@ -3,6 +3,7 @@
     <router-link to="/" class="btn btn-secondary me-2" :class="{'btn-primary': 1 > 0}">Home</router-link>
     <router-link to="/Generation1" class="btn btn-secondary me-2">Gen 1</router-link>
     <router-link to="/Letsgo" class="btn btn-secondary me-2 mt-3 mt-md-0">Let's Go</router-link>
+    <router-link to="/Letsgo2nd" class="btn btn-secondary me-2 mt-3 mt-md-0">Let's Go 2nd</router-link>
   </div>
   <router-view/>
 
